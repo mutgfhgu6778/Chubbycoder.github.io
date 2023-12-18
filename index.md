@@ -1,4 +1,4 @@
-# 留学生日常作业/课程设计/代码辅导/<font face="黑体" color=red>CS</font>/DS/商科，仅为漂洋过海的你❥
+# 留学生日常作业/课程设计/代码辅导/CS/DS/商科，仅为漂洋过海的你❥
 标签：Computer Science、Data Science、Business Administration，留学生编程作业代写&&辅导
 
 ## 个人介绍:
@@ -12,7 +12,7 @@
     - 熟练掌握SQL（mongoDB，MSSQL，postgre，oracle，excel）。
     - 熟练使用linux，windows ,android等系统环境。
     - 代写范围从底层汇编到数据算法结构,人工智能,图像游戏,数据库,Android,IOS,Web，各种CS、DS、商科课程。
-    - 辅导中国留学生<font face="黑体" color=red>CS、DS、商科</font>作业,多年经验,熟知各科得分点。
+    - 辅导中国留学生CS、DS、商科作业,多年经验,熟知各科得分点。
     - 由于时间有限,本人不做论文写作。
 
 ## 为什么要做这件事？
