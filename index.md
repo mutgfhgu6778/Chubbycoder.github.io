@@ -12,7 +12,7 @@
     - 熟练使用linux，windows ,android等系统环境。
     - 代写范围从底层汇编到数据算法结构,人工智能,图像游戏,数据库,Android,IOS,Web，各种CS、DS、商科课程。
     - 辅导中国留学生
-    $\color{red} {CS、DS、商科} $
+    $ \color{red} {CS、DS、商科} $
     作业,多年经验,熟知各科得分点。
     - 由于时间有限,本人不做论文写作。
 
