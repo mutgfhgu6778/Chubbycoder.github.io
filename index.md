@@ -1,4 +1,4 @@
-# 留学生日常作业/课程设计/代码辅导/CS/DS/商科，仅为漂洋过海的你❥
+# 留学生日常作业/课程设计/代码辅导/<font face="黑体" color=red>CS</font>/DS/商科，仅为漂洋过海的你❥
 标签：Computer Science、Data Science、Business Administration，留学生编程作业代写&&辅导
 
 ## 个人介绍:
