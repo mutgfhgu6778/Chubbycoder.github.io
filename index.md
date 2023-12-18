@@ -2,7 +2,7 @@
 标签：Computer Science、Data Science、Business Administration，留学生编程作业代写&&辅导
 
 ## 个人介绍:
-本人是一名资深码农，酷爱投资。
+本人是一名资深码农，酷爱投资。<img src="design2023866.jpg"  width="200" />
 
     - 毕业于985高校。
     - 海外留学经历。
@@ -54,4 +54,5 @@ $\color{red} {我想亲自为同龄人提供辅导服务，免去他们给中介
 作业定价有两种方式：1）根据定价标准进行；2）通过微信我们一起协商；。
 ## 联系方式
 微信（WeChat）：design2023866
-![微信扫一扫加我](design2023866.jpg =200x)
+<img src="design2023866.jpg"  width="200" />
+
