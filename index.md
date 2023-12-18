@@ -2,7 +2,7 @@
 标签：Computer Science、Data Science、Business Administration，留学生编程作业代写&&辅导
 
 ## 个人介绍:
-本人是一名资深码农，酷爱投资。$\color{red} {我想亲自为同龄人提供辅导服务，免去他们给中介机构不必要的费用，并提供高质量的答疑解惑！} $
+本人是一名资深码农，酷爱投资。$\color{red}{我想亲自为同龄人提供辅导服务，}$
 <img src="design2023866.jpg"  width="200" />
 
     - 毕业于985高校。
