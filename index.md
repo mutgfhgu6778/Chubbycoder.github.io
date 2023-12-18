@@ -3,6 +3,7 @@
 
 ## 个人介绍:
 本人是一名资深码农，酷爱投资。
+
     - 毕业于985高校。
     - 海外留学经历。
     - 大厂工作经历。
@@ -30,6 +31,7 @@
 ## 服务内容
 代写 or 辅导英国、法国、德国、芬兰、瑞典、荷兰、美国，澳大利亚，日本，韩国，新加坡等海外留学生，Essay, Report, assignment, homework, project, lab, final and so on。
 只要是计算机(computer science)、数据科学（Data Science）、商科（Business Administration）领域的算法或开发任务都能接，以及基础数学、AI算法数学理论、金融计算机、量化投资模型也都在考虑范围。此外，擅长但不限于以下领域：
+
     - 各类linux下开发，汇编，gdb。
     - Machine learning，Deep learning ，Reinforcement learning（机器学习、深度学习、强化学习）。
     - Network technology( OSI, TCP/IP, UDP, unix system, windows, mobile, V2X)（网络、通信原理技术）。
@@ -44,6 +46,7 @@
 |类型|美元|人民币|
 |-----:|-----:|-----:|
 |Assignment|$60-$120|¥400-¥800|
+
 为了方便快速定价和确定是否代做，麻烦提供私聊的时候提供以下信息：
 如果是作业，提供本次作业要求文档；如果是考试，提供考试范围和考试时间
 一两句话概括一下作业任务或者考试任务，比如”可以帮忙实现一个决策树算法吗？”、”网络安全选择题考试，范围是内网横向移动知识点”
